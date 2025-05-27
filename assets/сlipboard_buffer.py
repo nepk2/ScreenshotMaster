@@ -4,6 +4,7 @@ from ctypes.wintypes import BOOL, HANDLE, HWND, LPVOID, UINT
 import pyautogui as pg
 from PIL import Image
 
+
 def copy_image_to_clipboard(screenshot):
     HGLOBAL = HANDLE
     SIZE_T = c_size_t

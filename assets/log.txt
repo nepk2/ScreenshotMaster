@@ -1,0 +1,17 @@
+(01:37:39) [INFO] - Start: LOG START
+(01:37:39) [INFO] - version_checker: Проверка актуальности программы...
+(01:37:39) [INFO] - version_checker: Проверка версии установленной программы
+(01:37:39) [INFO] - version_checker: Найдено новое обновление
+(01:37:39) [INFO] - version_checker: Проверка актуальности программы...
+(01:37:39) [INFO] - version_checker: Проверка версии установленной программы
+(01:37:39) [INFO] - version_checker: Найдено новое обновление
+(01:37:39) [INFO] - version_checker: Проверка версии установленной программы
+(01:37:41) [INFO] - ScreenshotWindow: Отрисовка виджетов скриншотера
+(01:37:45) [INFO] - ScreenshotWindow: Создание скриншота <PIL.Image.Image image mode=RGB size=1920x1080 at 0x1DB71A856E0>
+(01:37:45) [INFO] - ScreenshotWindow: Запуск класса редактора EditorWindow
+(01:37:45) [INFO] - EditorWindow: Открытие скриншота...
+(01:37:45) [INFO] - EditorWindow: Отрисовка скриншота на холсте
+(01:37:45) [INFO] - EditorWindow: Отрисовка меню
+(01:37:56) [INFO] - EditorWindow: Закрытие редактора
+(01:48:00) [INFO] - ScreenshotWindow: Закрытие программы
+(01:48:00) [INFO] - Start: LOG END
