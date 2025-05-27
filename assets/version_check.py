@@ -7,7 +7,7 @@ from assets.log_creator import add_new_log
 
 def check_for_updates():
     # URL к raw-файлу с версией на GitHub
-    version_url = "https://raw.githubusercontent.com/nepk2/screenshot_app/refs/heads/main/version.json"
+    version_url = "https://raw.githubusercontent.com/nepk2/ScreenshotMaster/refs/heads/main/assets/version.json"
     
     try:
         add_new_log(f"[INFO] - version_checker: Проверка актуальности программы...\n")
